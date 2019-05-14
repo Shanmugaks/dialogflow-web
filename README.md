@@ -5,6 +5,7 @@
 # Dialogflow for Web
 
 This is an unofficial Web client for Dialogflow, i built it, to support Google Assistant rich-responses and to delivery the most out of the Platform. The executable is around 100KB
+This is sample content.
 
 ## What's included
 
